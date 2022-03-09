@@ -44,4 +44,4 @@ random.shuffle(password_generate_hard)
 password_difficult = ''.join(password_generate_hard)
 print(f"difficult password is {password_difficult}")
 
-# shuffle and choice 
+# shuffle and choice
